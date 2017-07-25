@@ -12,6 +12,7 @@
 **为了让这个网站更好的服务大家，可以赞助服务器费用，赞助所有的费用将用于服务器配置。赞助请备注姓名我会放到下方列表**
 <p align="center">
    <img src="http://www.ityouknow.com/assets/images/tip.jpg" >
+   <br/>微信赞助
 </p>
 
 
