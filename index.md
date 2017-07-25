@@ -9,3 +9,12 @@
 
 **有问题请发送邮件到ityouknow@126.com,或者在QQ交流群：565108729 中提问**
 
+**为了让这个网站更好的服务大家，可以赞助服务器费用，赞助所有的费用将用于完善网友使用。赞助请备注姓名我会放到下方列表**
+<p align="center">
+   <img src="http://www.ityouknow.com/assets/images/weixin.png"  style="width: 413px;height: 545px;">
+</p>
+
+
+排序	| 昵称	| 金额 | 备注信息
+---  |---    |---   |---
+1 | 小明 |  6元  |服务器赞助  
